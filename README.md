@@ -1,6 +1,6 @@
 # av-test-rep
 
-markup test:
+markup test: &plusmn;
 | Compressor       | Compression | Decompression | Ratio % |
 |------------------|------------:|--------------:|:-------:|
 | **LZAV 5.12**    | 630 MB/s    | 3,820 MB/s    | 39.94   |
